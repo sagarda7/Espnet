@@ -4,7 +4,7 @@ Espnet is an arduino lightweight library which can be used to interface and work
 # Install
 
 Clone (or download and unzip) the repository to `/libraries`
-which can be found in your arduino installation. currently this library supports only 4 seven segments
+which can be found in your arduino installation. 
 
 # Important
 ```c++
