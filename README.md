@@ -1,4 +1,4 @@
-# SevenSegment
+# Espnet (An arduino library for ESP8266 wifi chip)
 Espnet is an arduino lightweight library which can be used to interface and work with ESP8266 and Arduino Boards
 
 # Install
