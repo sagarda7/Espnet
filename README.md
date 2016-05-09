@@ -6,6 +6,11 @@ Espnet is an arduino lightweight library which can be used to interface and work
 Clone (or download and unzip) the repository to `/libraries`
 which can be found in your arduino installation. currently this library supports only 4 seven segments
 
+# Important
+```c++
+	This library uses software serial pins as rx,tx so software serial works best with 9600 baud. but ESP chip is already set to 115200, so first change baud to 9600 by using any USB to TTL converter.
+```
+
 # Usage
 
 ### Include
